@@ -7,6 +7,18 @@ body {
   padding: 10px;
   background:powderblue;
 }
+.button {
+  background-color: tomato;
+  border: none;
+  color: green;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor:alias;
+}
 
 /* Header/Blog Title */
 .header {
